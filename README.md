@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ronandietivelli/ronandietivelli/output/snake.svg" alt="Snake animation" />
-
-###
